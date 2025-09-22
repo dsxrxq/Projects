@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\43963\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|D:\\Projects\\43963\\assets\\scripts\\btnhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\btnhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|d:\\projects\\43963\\assets\\scripts\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|D:\\Projects\\43963\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|D:\\Projects\\43963\\assets\\scripts\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4842D643-B295-9612-EA65-C86160575794}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "D:\\Projects\\43963\\Assets\\Scripts\\Plane.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plane.cs",
+              "ToolTip": "D:\\Projects\\43963\\Assets\\Scripts\\Plane.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:36:00.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Projects\\43963\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "D:\\Projects\\43963\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:07:43.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartScene.cs",
+              "DocumentMoniker": "D:\\Projects\\43963\\Assets\\Scripts\\StartScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartScene.cs",
+              "ToolTip": "D:\\Projects\\43963\\Assets\\Scripts\\StartScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:55:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BtnHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\43963\\Assets\\Scripts\\BtnHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BtnHandler.cs",
+              "ToolTip": "D:\\Projects\\43963\\Assets\\Scripts\\BtnHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BtnHandler.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:55:38.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
