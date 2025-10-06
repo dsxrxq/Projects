@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CarXMudic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|D:\\Projects\\CarXMudic\\assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|d:\\projects\\carxmudic\\assets\\scripts\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|d:\\projects\\carxmudic\\assets\\scripts\\playerconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|D:\\Projects\\CarXMudic\\assets\\scripts\\changerspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changerspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|D:\\Projects\\CarXMudic\\assets\\scripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|D:\\Projects\\CarXMudic\\assets\\scripts\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|D:\\Projects\\CarXMudic\\assets\\scripts\\rotatewheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatewheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|D:\\Projects\\CarXMudic\\assets\\scripts\\creatorambient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creatorambient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|D:\\Projects\\CarXMudic\\assets\\scripts\\construcrions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C93EE0-6EF7-C5A3-DBE9-24EAC201B56B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\construcrions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartScene.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\StartScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartScene.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\StartScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:13:31.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Construcrions.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\Construcrions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Construcrions.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\Construcrions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Construcrions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:17:21.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatorAmbient.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\CreatorAmbient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreatorAmbient.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\CreatorAmbient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreatorAmbient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:02:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RotateWheel.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\RotateWheel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateWheel.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\RotateWheel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateWheel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:59:59.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangerSpeed.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\ChangerSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangerSpeed.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\ChangerSpeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangerSpeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:09:57.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\Creator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Creator.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\Creator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Creator.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:24:55.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Road.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\Road.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Road.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\Road.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Road.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:39:14.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerConroller.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\PlayerConroller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerConroller.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\PlayerConroller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerConroller.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:04:49.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\ButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonHandler.cs",
+              "ToolTip": "D:\\Projects\\CarXMudic\\Assets\\Scripts\\ButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wDEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:13:42.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
