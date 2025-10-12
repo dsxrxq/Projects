@@ -6,8 +6,6 @@
 ## | 3D |
 
 ### CarxMudic
-(https://raw.githubusercontent.com/dsxrxq/Projects/main/GIFs/CarXMudic.gif?raw=true)
-
 Гра по типу Traffic Racer де тобі треба уникати машин та проїзжати більшу відстань.
 Не до кінця зроблена, в плані звуку, налаштувань, тому що були більш важніші справи, а так вся механіка є.
 **Реалізація:**
