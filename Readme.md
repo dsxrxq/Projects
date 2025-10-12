@@ -6,7 +6,7 @@
 ## | 3D |
 
 ### CarxMudic
-![](https://github.com/dsxrxq/Projects/blob/main/GIFs/CarXMudic.gif)
+![](https://github.com/dsxrxq/GIFs/blob/main/CarXMudic.gif)
 Гра по типу Traffic Racer де тобі треба уникати машин та проїзжати більшу відстань.
 Не до кінця зроблена, в плані звуку, налаштувань, тому що були більш важніші справи, а так вся механіка є.
 **Реалізація:**
@@ -20,6 +20,7 @@
 ## | 2D |
 
 ### 1. Glowing Grotto Glide
+![](https://github.com/dsxrxq/GIFs/blob/main/Glowing%20Grotto%20Glide.gif)
 Аркадна гра, де потрібно уникати бомб та збирати зірочки у нескінченному режимі.  
 **Реалізація:**
 - Рух літака вперед через `FixedUpdate`.  
@@ -31,6 +32,7 @@
 ---
 
 ### 2. NextTurn
+![](https://github.com/dsxrxq/GIFs/blob/main/NextTurn.gif)
 Гра, де потрібно вчасно повернути, щоб отримати очки.  
 **Реалізація:**
 - Плавний поворот через `Quaternion.Slerp` і `Quaternion.LookRotation`.  
@@ -39,6 +41,7 @@
 ---
 
 ### 3. Pixel Alchemists
+![](https://github.com/dsxrxq/GIFs/blob/main/Pixel%20Alchemists.gif)
 Гравець керує байком і змагається з ботами, виконуючи трюки для отримання очок.  
 **Реалізація:**
 - Система підрахунку очок за ротацію.  
@@ -48,6 +51,7 @@
 ---
 
 ### 4. Sapphire Reef Dive
+![](https://github.com/dsxrxq/GIFs/blob/main/Sapphire%20Reef%20Dive.gif)
 Класичний пінг-понг, де гравець керує платформою, щоб відбивати кулю.  
 **Реалізація:**
 - Рух платформи по осі **X** (з `FixedUpdate`), платформа зафріжена по осі **Y**.  
@@ -57,6 +61,7 @@
 ---
 
 ### 5. Yucca Yard Yarn
+![](https://github.com/dsxrxq/GIFs/blob/main/Yucca%20Yard%20Yarn.gif)
 Класична головоломка "3 в ряд".  
 **Реалізація:**
 - Початково: 3 коллайдери на кожному айтемі (1 коло + хрестик(2 прямокутних коллайдера)) для відслідковування сусідів.  
